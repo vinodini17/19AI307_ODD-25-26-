@@ -3,17 +3,6 @@
 ## QUESTION:
 Print Hollow Square Pattern
 
-import java.util.Scanner;
-public class HollowSquare {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-// you can code here
-       
-    }
-}
-
-
 ## AIM:
 To write a Java program to print a hollow square pattern using asterisks (*).
 
@@ -68,4 +57,5 @@ public class HollowSquare {
 
 ## RESULT:
 The program successfully prints a hollow square pattern of size n × n.
+
 
