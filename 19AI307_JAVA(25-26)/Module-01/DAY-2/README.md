@@ -72,7 +72,9 @@ public class prog {
 ```
 
 ## OUTPUT:
+<img width="1151" height="347" alt="image" src="https://github.com/user-attachments/assets/ff0cc3d1-fa02-488b-a30c-bcb7d013aa07" />
 
 
 ## RESULT:
 The program successfully determines the faster option between stairs and elevator.
+
