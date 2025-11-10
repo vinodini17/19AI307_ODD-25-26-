@@ -19,8 +19,8 @@
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by: 
-RegisterNumber:  
+Developed by: VINODINI R
+RegisterNumber:  212223040244
 */
 ```
 
@@ -37,3 +37,4 @@ RegisterNumber:
 
 
 ## RESULT:
+
